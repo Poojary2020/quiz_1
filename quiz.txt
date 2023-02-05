@@ -1,0 +1,37 @@
+1.version control tools
+GIT
+SVN 
+CVS
+MERCURIAL
+2.Monitoring tools
+Sensu
+PagerDuty
+Datical Deployment Monitoring Console
+Tasktop Integration Hub
+Librato
+Prometheus
+Kibana
+Splunk
+Nagios
+Dynatrace
+3.Jenkins is used to continually create and test software projects
+4.Git is a mature, actively maintained open source revision control system used by thousands of developers around the world
+5.Devops is a set of practice and tools designed to shorten the life cycle of a software development process.
+6.3 stages of GIT
+modified, staged, and committed
+7.Branches are used to create another line of development.
+8.git stash
+9.git clone -b branch url
+10.git add -A
+11.Maven -is a build automation tool which is packaging code and library.
+12.GitHub -online service portal owned by microsoft provide tools for git
+13.git status
+14.Containerization DevOps Tools
+Fleet
+Swarm
+Docker Hub
+Packer
+Kubernetes
+Nomad
+OpenVZ
+15.Terraform
